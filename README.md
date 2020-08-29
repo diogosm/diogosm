@@ -1,4 +1,16 @@
-### Hi there 👋
+<samp>
+
+👋 `cout<<"Hello World\n";`
+  
+💻 Entusiasta de pesquisa e programação
+
+📝 Estudante de doutorado
+
+:hocho: vem x1 no CS
+
+:coffee: and :pizza: for coding...
+
+</samp>
 
 <!--
 **diogosm/diogosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
